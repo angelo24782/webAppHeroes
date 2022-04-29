@@ -1,7 +1,7 @@
 import Axios from "axios";
 
 //const baseurl = 'http://localhost:3001/api/heroes/'
-const baseurl = '/api/heroes'
+const baseurl = 'api/heroes'
 
 /**VISUALIZZA */
 const getAll = () => {
