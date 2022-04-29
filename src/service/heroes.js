@@ -1,6 +1,7 @@
 import Axios from "axios";
 
-const baseurl = 'http://localhost:3001/api/heroes/'
+//const baseurl = 'http://localhost:3001/api/heroes/'
+const baseurl = 'https://protected-forest-80626.herokuapp.com/api/heroes'
 
 /**VISUALIZZA */
 const getAll = () => {
