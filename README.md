@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+## Link Demo
+
+https://protected-forest-80626.herokuapp.com/
+
+
 # React2.0
 React2.0 Aggiornato il corso React Redux con aggiunta Node Express, Heroku, Mongo Db
 =======
